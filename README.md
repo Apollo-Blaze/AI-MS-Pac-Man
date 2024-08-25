@@ -14,6 +14,7 @@ This project implements a Deep Convolutional Q-Learning (DCQN) agent to play the
 ## Results
 
 The trained DCQN agent is able to achieve a high score in Ms. Pac-Man, demonstrating its ability to learn effective strategies for navigating the game environment and collecting points. The agent's performance can be further improved by adjusting the hyperparameters and training for a longer duration.
+
 ![Demo of the application](pac.gif)
 
 
